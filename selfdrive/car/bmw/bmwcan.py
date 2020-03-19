@@ -1,6 +1,6 @@
 import struct
 from PyTrinamic.TMCL import TMCL_Command, TMCL_Request
-from  PyTrinamic.modules.TMCM_1270 import _APs
+# from  PyTrinamic.modules.TMCM_1270 import _APs
 from selfdrive.car import make_can_msg
 
 def create_steer_command(packer, steer_angle_chg):
