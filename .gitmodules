@@ -10,6 +10,6 @@
 [submodule "cereal"]
 	path = cereal
 	url = ../../commaai/cereal.git
-[submodule "new_opendbc"]
+[submodule "opendbc"]
 	path = opendbc
 	url = ../../dzid26/opendbc-BMW-E8x-E9x.git
