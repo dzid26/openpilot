@@ -3,8 +3,8 @@
 Table of Contents
 =======================
 
-* [BMW integration](#what-is-openpilot)
-* [What is openpilot?](#bmw-integration)
+* [BMW integration](#bmw-integration)
+* [What is openpilot?](#what-is-openpilot)
 * [Integration with Stock Features](#integration-with-stock-features)
 * [Supported Hardware](#supported-hardware)
 * [Supported Cars](#supported-cars)
@@ -42,7 +42,7 @@ Refer to [opendbc-BMW](https://github.com/dzid26/opendbc-BMW-E8x-E9x) to explore
 
 DIY hardware onnections:
 
-| Wire      |     **Main** & secondary color | Panda  pin | Description               |Good Splice location |
+| Car wires|     **Main** & secondary color | Panda  pin | Description               |Good Splice location |
 | --------- | ------------------         | ---------  | ------------------            |------     |
 | PT_CAN_H  | **blue** &  red            | CAN2H      |powertrain CAN                 |X10548     |
 | PT_CAN_L  | **red**                    | CAN2L      |powertrain CAN                 |X10549     |
